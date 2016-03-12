@@ -1,0 +1,50 @@
+
+body {
+	font-family: Verdana;
+}
+
+h1 {	
+	color: #666666;
+}
+
+h3 {
+	color: #f07c17;
+}
+
+p, li {
+	color: #666666;
+	line-height: 2;
+}
+
+#title {
+	position: relative;
+	left: 280px;
+}
+
+#feature {
+	position: relative;
+	top: 410px;
+	left: 30px;
+	border: 2px solid lightgrey;
+	width: 310px;
+	height: 170px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+#paragraph {
+	position: relative;
+	width: 540px;
+	height: 700px;
+	left: 410px;
+	bottom: 210px;
+}
+
+body {
+	background-image: url(https://github.com/pbw3177311/SVWeb07/blob/master/Victor/HTML:CSS/mug.png?raw=true);
+	background-position: 40px 90px;
+	background-size: 350px 370px;
+	background-repeat: no-repeat;
+}
