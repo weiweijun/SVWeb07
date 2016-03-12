@@ -17,8 +17,8 @@ body {
 }
 
 .mug {
-  width: 374px;
-  height: 374px;
+  width: 375px;
+  height: 375px;
   margin-left: 15px;
   display: inline-block;
   float: left;
@@ -28,7 +28,7 @@ body {
   border: 1px solid #CCCCCC;
   margin-top: 30px;
   margin-left: 15px;
-  width: 352px;
+  width: 355px;
   height: 185px;
   padding: 10px;
   display: inline-block;
@@ -60,6 +60,7 @@ body {
 	margin-left: 35px; 
 	left: 30px; 
 	display: inline-block;
+  text-align:left;
 }
 /*.col-md-7 {
   border: 1px;
@@ -81,6 +82,13 @@ body {
   margin-bottom: 10px;
   display: inline-block;
 }
+
+.paragraph {
+  width: 535px;
+  text-align:middle;
+
+}
+
 
 /*.body-text {
   color: #666666;
