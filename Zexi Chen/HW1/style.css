@@ -1,0 +1,111 @@
+/*body {
+	background: url(CSS/page-mock.png);
+	background-size: 1024px 885px;
+	background-repeat: no-repeat;
+}*/
+
+.header {
+	width: 950px;
+    height: 120px;
+    margin-left: 35px;
+    /*border: 1px solid blue;*/
+    box-sizing: border-box;
+    margin-bottom: -40px;
+
+}
+
+.content {
+	width: 950px;
+    height: 765px;
+    margin-left: 35px;
+    /*border: 1px solid blue;*/
+    box-sizing: border-box;
+}
+
+.left {
+	width: 372px;
+	height: 765px;
+	/*border: 1px solid blue;*/
+    box-sizing: border-box;
+    float: left;
+}
+
+.right {
+	width: 576px;
+	height: 765px;
+	/*border: 1px solid blue;*/
+    box-sizing: border-box;
+    float: left;
+}
+
+.photo {
+	clear: both;
+}
+
+.feature {
+	width: 371px;
+	height: 220px;
+	margin-top: 28px;
+	/*border: 1px solid red;*/
+	bor
+	/*border-color: rgb(204,204,204);*/
+}
+
+
+p.title {
+	font-family: "Verdana", Verdana, Sans-Serif;
+	text-align: center;
+	font-size: 48px;
+	color: #666666;
+	/*color: red;*/
+	transform: translate(-6px,-5px);
+}
+
+p.subtitle {
+	font-family: "Verdana", Verdana, Sans-Serif;
+	font-size: 24px;
+	color: #f07c17;
+	/*color: red;*/
+	transform: translate(31px,-26px);
+	font-weight: bold;
+
+}
+
+img.photoimage {
+	width: 371px;
+	height: 371px;
+	transform: translateX(-1px);
+}
+
+p.featuretitle{
+	font-family: "Verdana", Verdana, Sans-Serif;
+	font-size: 24px;
+	color: #f07c17;
+	/*color: red;*/
+	font-weight: bold;
+	transform: translate(30px, 30px);
+}
+
+p.introtest {
+	padding-left: 31px;
+	padding-right: 10px;
+	margin-bottom: -6px;
+	font-family: "Verdana", Verdana, Sans-Serif;
+	font-size: 16px;
+	color: #666666;
+	/*color: red;*/
+	line-height: 32px;
+	transform: translateY(-21px);
+}
+
+ul.featurelist {
+	font-family: "Verdana", Verdana, Sans-Serif;
+	font-size: 16px;
+	color: #666666;
+	/*color: red;*/
+	transform: translate(30px,41px);
+}
+
+li {
+	height: 32px;
+}
