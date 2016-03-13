@@ -1,9 +1,9 @@
-/*body {
+body {
     background: url(../images/page-mock.png);
     background-size: 1024px 885px;
     background-repeat: no-repeat;
     background-position: center top;
-}*/
+}
 
 * {
     font-family: Verdana;
@@ -57,7 +57,7 @@ li {
     line-height: 32px;
 }
 
-p{
+p {
     color: #666;
     margin-bottom: -6px;
     line-height: 32px;
