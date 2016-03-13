@@ -16,25 +16,28 @@ body {
   color: #666666;
   font-size: 48px;
   font-weight: normal;
-  margin-top: 45px;
-  margin-bottom: 30px;
-  margin-left: 245px;
+  margin-top: 24px;
+  margin-bottom: 20px;
+  margin-left: 259px;
 }
 
 .mug {
-  width: 374px;
-  height: 374px;
-  margin-left: 15px;
+  width: 373px;
+  height: 373px;
+  margin-left: 35px;
+  margin-top: -13px;
+  margin-bottom: -23px;
   display: inline-block;
   float: left;
 }
 
 .features-box {
   border: 1px solid #CCCCCC;
-  margin-top: 30px;
-  margin-left: 15px;
-  width: 352px;
-  height: 185px;
+  margin-top: 54px;
+  margin-bottom: 14px;
+  margin-left: 34px;
+  width: 353px;
+  height: 202px;
   padding: 10px;
   display: inline-block;
   float: left;
@@ -44,9 +47,17 @@ body {
   color: #f07c17;
   font-size: 24px;
   font-weight: bold;
-  margin-top: 1px;
+  margin-top: 10px;
+  margin-left: 15px;
   padding-bottom: 0px;
   padding-left: 5px;
+}
+
+.item {
+  margin-top: 8px;
+  margin-left: 20px;
+  font-size: 16px;
+  line-height: 31px;
 }
 
 
@@ -65,31 +76,37 @@ body {
 	margin-left: 35px; 
 	left: 30px; 
 	display: inline-block;
+  text-align:left;
+  height: 100px;
 }
-/*.col-md-7 {
-  border: 1px;
-  margin-top: 30px;
-  margin-left: 15px;
-  width: 353px;
-  height: 224px;
-  padding: 10px;
-  display: inline-block;
-  float: right;
-}*/
+
 
 .sub-heading {
   color: #f07c17;
   font-size: 24px;
   font-weight: bold;
-  margin-left: 0px;
-  margin-top: 0px;
-  margin-bottom: 10px;
+  margin-left: -5px;
+  margin-top: -9px;
+  margin-bottom: 40px;
+  height: 10px;
   display: inline-block;
 }
 
-/*.body-text {
-  color: #666666;
-  margin-top: 9px;
-  padding-bottom: 30px;
-  line-height: 2;
-}*/
+.paragraph {
+  width: 536px;
+  text-align: middle;
+  margin-top: 10px;
+  margin-left: -4px;
+  line-height: 32px;
+  height: 243px;
+  margin-bottom: 24px;
+  padding: 0px;
+  padding-bottom: 25px;
+}
+
+
+body {
+  background: url(./HTML_CSS/page-mock.png);
+  background-size: 1024px 885px;
+  background-repeat: no-repeat;
+}
