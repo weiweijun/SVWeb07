@@ -1,8 +1,8 @@
-body {
+/*body {
     background: url(page-mock.png);
     background-size: 1024px 885px;
     background-repeat: no-repeat;
-}
+}*/
   
 .header{
     width: 1010px;
@@ -21,6 +21,7 @@ p.title {
 }
 
 .left{ 
+    vertical-align: top;
     border: 1px solid red; 
     box-sizing: border-box;
     width: 420px;
@@ -29,6 +30,7 @@ p.title {
 }
 
 .right {
+    vertical-align: top;
     border: 1px solid red;
     box-sizing: border-box;
     display: inline-block;
