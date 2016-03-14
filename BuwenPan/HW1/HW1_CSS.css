@@ -7,7 +7,7 @@ h1 {
 	color: #666666;
 }
 
-h3 {
+h2 {
 	color: #f07c17;
 }
 
@@ -17,41 +17,61 @@ p, li {
 }
 
 #title {
-	position: relative;
-	left: 280px;
+	margin-left: 259px;
+	margin-top: 45px;
+	font-style: normal;
+	font-size: 136%;
 }
 
 #feature {
-	position: relative;
-	top: 410px;
-	left: 30px;
 	border: 2px solid lightgrey;
-	width: 310px;
-	height: 170px;
+	width: 339px;
+	height: 212px;
+	margin-top: 26px;
+	margin-left: 32px;
 	padding-top: 10px;
-	padding-bottom: 20px;
-	padding-right: 20px;
-	padding-left: 20px;
+	padding-left: 35px;
 }
 
-#paragraph {
-	position: relative;
+#list {
+	margin-top: 28px;
+	margin-left: -5px;
+}
+
+#rightTitle {
+	margin-left: 438px;
+	margin-top: -648px;
+}
+
+#paragraph_1 {
+	margin-left: 439px;
+	margin-top: 29px;
+	width: 530px;
+	height: 700px;
+}
+
+#paragraph_2 {
+	margin-left: 438px;
+	margin-top: -451px;
+	width: 545px;
+	height: 700px;
+}
+
+#paragraph_3 {
+	margin-left: 440px;
+	margin-top: -513px;
 	width: 540px;
 	height: 700px;
-	left: 410px;
-	bottom: 210px;
+}
+
+#cup {	
+	margin-left: 35px;
+	width: 375px;
+	height: 375px;
 }
 
 body {
-	background-image: url(https://github.com/pbw3177311/SVWeb07/blob/master/Victor/HTML:CSS/mug.png?raw=true);
-	background-position: 40px 90px;
-	background-size: 350px 370px;
-	background-repeat: no-repeat;
-}
-
-
-/*body {
   background-image: url(page-mock.png);
   background-size: 1024px 885px;
   background-repeat: no-repeat;
-}*/
+}
